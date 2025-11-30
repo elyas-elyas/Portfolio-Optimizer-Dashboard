@@ -1,9 +1,8 @@
 # Portfolio Optimizer: MPT & Machine Learning Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://imgshields.io/badge/Status-Feature--Rich-success)
 
 An investment dashboard for portfolio optimization using Modern Portfolio Theory (Markowitz), enhanced with optional **Machine Learning (ARMA/GARCH)** for dynamic parameter forecasting and **Monte Carlo Simulations** for risk forecasting.
 
@@ -113,7 +112,7 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 | Deployment Status | Link |
 |-------------------|------|
-| **Live App** | [] |
+| **Live App** | [https://portfolio-optimizer-dashboard-pod.streamlit.app] |
 
 ---
 
