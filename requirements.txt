@@ -7,3 +7,4 @@ scipy
 statsmodels
 arch
 matplotlib
+xlsxwriter
