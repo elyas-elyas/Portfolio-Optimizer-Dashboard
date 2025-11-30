@@ -4,5 +4,5 @@ pandas
 numpy
 plotly
 scipy
-arch
 statsmodels
+arch
